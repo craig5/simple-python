@@ -1,3 +1,3 @@
 
 build:
-	echo "It works."
+	echo "It still works."
